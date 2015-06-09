@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: 第一篇博客
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+本博客使用教程（http://blog.csdn.net/on_1y/article/details/19259435）搭建完成，感谢开源。
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
